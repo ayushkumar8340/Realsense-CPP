@@ -1,0 +1,6 @@
+/work/build/CMakeFiles/rebuild_cache.dir
+/work/build/CMakeFiles/edit_cache.dir
+/work/build/CMakeFiles/realsense_lib.dir
+/work/build/demo/CMakeFiles/rebuild_cache.dir
+/work/build/demo/CMakeFiles/edit_cache.dir
+/work/build/demo/CMakeFiles/realsense_cam_feed.dir
